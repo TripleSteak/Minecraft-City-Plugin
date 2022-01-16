@@ -1,4 +1,4 @@
-# Minecraft-Plugins
+# Minecraft-City-Plugin
 Some fun city-themed features I developed a while back to complement a city building project :)
 
 Features:
