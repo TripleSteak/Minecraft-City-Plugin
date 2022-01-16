@@ -8,7 +8,7 @@ Features:
 - Multiple tiers of food, with different effects and rarities.
 - Ketchup and mustard dispenser that can be right clicked with a hot dog in hand.
 - Custom chairs! You can finally sit in Minecraft!
-- Smooth, fully functioning [elevator system](https://youtu.be/IMAP8JS-ahI) that can be taken between floors of a skyscraper.
+- Smooth, fully functioning [elevator system](https://youtu.be/XUJi2kHPsA0) that can be taken between floors of a skyscraper.
 - Water dispenser that refills empty cups so you never go thirsty
 - Trash cans; convenient for unwanted items (you're physically not allowed to litter :P)
 - Working [traffic lights](https://youtu.be/FYVB8Q-iNZw)

@@ -1,0 +1,6 @@
+main: me.triplesteak.utilities.ServerUtilities
+name: Server-Utilities
+version: 1.0.0
+description: Stops ice from melting, stops explosions, etc.
+api-version: 1.16
+author: Triple_Steak
