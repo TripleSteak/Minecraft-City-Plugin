@@ -1,2 +1,3 @@
 # Minecraft-Plugins
-Giant amalgamation of all the Minecraft coding I've done when I was younger; have fun exploring :)
+Some fun city-themed features I developed a while back to complement a city building project :)
+Worked on from June 2020 to July 2020.
